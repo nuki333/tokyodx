@@ -273,6 +273,8 @@ li {
 
 .article-img {
   margin-bottom: 20px;
+  /*20210508ADD 紹介画像のセンター表示*/
+  text-align: center;
 }
 
 .article-body {
