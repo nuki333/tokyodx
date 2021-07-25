@@ -1,2 +1,2 @@
 # tokyodx
-# ICTメンバー紹介サイト
+TokyoICTメンバーの紹介サイトです
